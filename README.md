@@ -76,7 +76,27 @@ Let's spice it up a bit and create a new file instead of editing an existing one
     [Solution][solution-03]
 
 
+## Congratulations!
+
+You've completed the beginner challenges! Now see if you can complete the following!
+
+
+## Challenge #4: Switching gears
+
+Say you want to try out an experimental feature. It's a big feature, so you still
+want to add multiple commits, just in case you decide to keep them in the project.
+
+Git makes branching easy. Branching and merging is a crucial part of git. So let's jump
+right in, shall we?
+
+The next set of challenges are in another branch of this repository.
+Try switching to it now. The branch name is `level-2`.
+
+Stuck? [Here's the solution][solution-04] with some additional information about `git reset`.
+
+
 [git]: http://git-scm.com/downloads
 [solution-01]: https://github.com/trynewtech/try-git/wiki/Challenge-%231
 [solution-02]: https://github.com/trynewtech/try-git/wiki/Challenge-%232
 [solution-03]: https://github.com/trynewtech/try-git/wiki/Challenge-%233
+[solution-04]: https://github.com/trynewtech/try-git/wiki/Challenge-%234
